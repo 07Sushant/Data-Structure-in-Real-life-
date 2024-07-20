@@ -32,23 +32,3 @@ This project demonstrates the use of various data structures in real-life applic
 1. **Clone the Repo**:
    ```bash
    git clone https://github.com/07Sushant/Data-Structure-in-Real-life-.git
-Use code with caution.
-Markdown
-Navigate to Specific Data Structure Directory:
-cd Data-Structure-in-Real-life/bst
-Use code with caution.
-Bash
-(Replace 'bst' with 'linked_lists', 'stacks_queues', or 'hash_tables' based on your interest)
-Run Examples:
-python bst_examples.py
-Use code with caution.
-Bash
-(Adjust the file name according to the data structure and examples you want to explore).
-🤝 Contributing
-We welcome contributions! If you have:
-New Examples: Share creative applications of data structures in real-life scenarios.
-Improved Implementations: Contribute more efficient or feature-rich versions of data structures.
-New Data Structures: Expand the project with additional data structures and their use cases.
-Please create a pull request or open an issue to discuss your ideas.
-📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
